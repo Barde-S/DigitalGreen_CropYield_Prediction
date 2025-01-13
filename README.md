@@ -59,7 +59,6 @@ This project involves data analysis and predictive modeling for crop-related dat
   - Classification Models: `LogisticRegression`, `DecisionTreeClassifier`, `CatBoostClassifier`, etc.
 - **Metrics Evaluated**:
   - Regression: Mean Absolute Error (MAE), Mean Squared Error (MSE), R² Score
-  - Classification: Accuracy, F1 Score, Confusion Matrix
 
 ### 6. **Optimization**
 - GridSearchCV and Cross-Validation were used for hyperparameter tuning to enhance model performance.
