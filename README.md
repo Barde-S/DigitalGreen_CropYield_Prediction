@@ -1,4 +1,4 @@
-# Project README: Crop Data Analysis and Modeling
+# Project README: DigitalGreen CropYield Prediction
 
 ## Overview
 
